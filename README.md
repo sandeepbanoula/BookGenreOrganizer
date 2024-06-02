@@ -11,7 +11,7 @@ BookGenreOrganizer is a tool designed to automatically categorize ePub and PDF b
 
 ## Download .exe
 
-https://github.com/sandeepbanoula/BookGenreOrganizer/BookGenreOrganizer.exe
+[Download BookGenreOrganizer.exe](https://github.com/sandeepbanoula/BookGenreOrganizer/releases/tag/v1.0)
 
 ## Requirements
 
@@ -81,7 +81,7 @@ The executable will be generated in the `dist` folder.
    Ensure all your ePub and PDF files are in a single directory. For example, create a folder named `books` on your desktop and move all your ePub and PDF files into this folder.
 
 3. **Run the Executable:**
-   - Copy the executable file in the Books Folder and open it.
+   Copy the executable file in the Books Folder and open it.
 
 ## Contributing
 
